@@ -1,9 +1,9 @@
 {
-  "name": "@cocreate/cocreatejs",
+  "name": "@cocreate/compiler",
   "version": "1.0.0",
   "description": "A simple CoCreateJS component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
-    "CoCreateJS",
+    "compiler",
     "cocreate",
     "low-code-framework",
     "no-code-framework",
@@ -31,14 +31,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreate-app/CoCreateJS.git"
+    "url": "git+https://github.com/CoCreate-app/CoCreate-compiler.git"
   },
   "author": "CoCreate LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoCreate-app/CoCreateJS/issues"
+    "url": "https://github.com/CoCreate-app/CoCreate-compiler/issues"
   },
-  "homepage": "https://cocreate.app/docs/CoCreateJS",
+  "homepage": "https://cocreate.app/docs/CoCreate-compiler",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/plugin-transform-regenerator": "^7.12.1",

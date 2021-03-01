@@ -102,7 +102,8 @@ for (let [name, value] of Object.entries(files)) {
           loader: 'babel-loader',
           options: {
             presets: ['@babel/preset-env'],
-            plugins: ["@babel/plugin-transform-runtime", "@babel/plugin-transform-regenerator"]
+            plugins: ["@babel/plugin-transform-runtime"]
+            // "@babel/plugin-transform-regenerator"
           }
         }
       }, ]

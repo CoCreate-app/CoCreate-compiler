@@ -13,8 +13,8 @@ exports.components = {
 
     'CoCreate-room': '../CoCreate-components/CoCreate-room/src/CoCreate-room.js',
 
-    'CoCreate-document_id': '../CoCreate-components/CoCreate-document_id/src/CoCreate-document_id.js',
-    'CoCreate-form': '../CoCreate-components/CoCreate-form/src/CoCreate-form.js',
+    // 'CoCreate-document_id': '../CoCreate-components/CoCreate-document_id/src/CoCreate-document_id.js',
+    'CoCreate-form': '../CoCreate-components/CoCreate-form/src/core.js',
     'CoCreate-array': '../CoCreate-components/CoCreate-array/src/CoCreate-array.js',
     'CoCreate-htmltags': '../CoCreate-components/CoCreate-htmltags/src/CoCreate-htmltags.js',
 
@@ -33,7 +33,7 @@ exports.components = {
     'CoCreate-toggle': '../CoCreate-components/CoCreate-toggle/src/CoCreate-toggle.js',
     'CoCreate-selected': '../CoCreate-components/CoCreate-selected/src/CoCreate-selected.js',
     'CoCreate-scroll': '../CoCreate-components/CoCreate-scroll/src/CoCreate-scroll.js',
-    'CoCreate-styles': '../CoCreate-components/CoCreate-styles/src/CoCreate-styles.js',
+    // 'CoCreate-styles': '../CoCreate-components/CoCreate-styles/src/CoCreate-styles.js',
     'CoCreate-attributes': '../CoCreate-components/CoCreate-attributes/src/CoCreate-attributes.js',
 
     // // collabortion
@@ -41,7 +41,7 @@ exports.components = {
     'CoCreate-cursors': '../CoCreate-components/CoCreate-cursors/src/CoCreate-cursors.js',
     'CoCreate-text': '../CoCreate-components/CoCreate-text/src/CoCreate-text.js',
     'CoCreate-contenteditable': '../CoCreate-components/CoCreate-contenteditable/src/CoCreate-contenteditable.js',
-    'CoCreate-findPosition': '../CoCreate-components/CoCreate-findPosition/src/CoCreate-findPosition.js',
+    'CoCreate-domToText': '../CoCreate-components/CoCreate-domToText/src/CoCreate-domToText.js',
 
     // // UI Components
     'CoCreate-sidenav': '../CoCreate-components/CoCreate-sidenav/src/CoCreate-sidenav.js',
@@ -56,6 +56,7 @@ exports.components = {
     'CoCreate-social-share': '../CoCreate-components/CoCreate-social-share/src/CoCreate-social-share.js',
     'CoCreate-splitview': '../CoCreate-components/CoCreate-splitview/src/CoCreate-splitview.js',
     'CoCreate-toolbar': '../CoCreate-components/CoCreate-toolbar/src/CoCreate-toolbar.js',
+    'CoCreate-quill-adder': '../CoCreate-components/CoCreate-quill-adder/src/CoCreate-quill-adder.js',
     
     
     
